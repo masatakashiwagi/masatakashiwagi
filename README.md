@@ -8,5 +8,5 @@ providing machine learning solutions for the manufacturing industry.
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=masatakashiwagi&show_icons=true&count_private=true)
 
-## 📝 Blogs posts
-## 📫 Social Media
+## 📝 Blog posts
+## 📫 Social media
