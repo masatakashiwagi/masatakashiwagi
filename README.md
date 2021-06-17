@@ -8,4 +8,9 @@ contributing to products / services from the perspective of data analysis, inclu
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=masatakashiwagi&show_icons=true&count_private=true&theme=flag-india)
 
+## 📮 SNS
+- Blog: [Fractal Prologue](https://masatakashiwagi.github.io/portfolio/)
+- note: [note@asteriam](https://note.com/asteriam/)
+- Podcast: [Double-M2.fm](https://anchor.fm/double-m2)
+
 ## 📝 Blog posts
