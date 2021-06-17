@@ -1,6 +1,6 @@
 # Hello there 👋 I am Masataka Kashiwagi.
 ## About me
-Now, I’m working as Machine Learning Engineer at company,   
+Now, I’m working as Machine Learning Engineer at Connehito, Inc.  
 contributing to products / services from the perspective of data analysis, including machine learning.
 
 - 🔭 I’m currently working as Machine Learning Engineer.
