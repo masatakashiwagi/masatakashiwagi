@@ -50,6 +50,8 @@ some libraries related to data analysis.
 
 ### Development tools
 <p>
+  <img src="https://img.shields.io/badge/-Git-F44D27?style=flat&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white"/>
