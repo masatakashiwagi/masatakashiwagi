@@ -16,7 +16,12 @@ contributing to products / services from the perspective of data analysis, inclu
 ## 📝 Blog posts
 
 ## 🧑🏻‍💻 Skill
-### FrameWorks
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Fortran-734F96?style=flat&logo=Fortran&logoColor=white"/>
+</p>
+### Machine Learning FrameWorks
 <p>
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/>
@@ -30,6 +35,9 @@ some libraries related to data analysis.
   <img src="https://img.shields.io/badge/-numpy-013243?style=flat&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=SciPy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=Plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/>
 </p>
 
 ### Infra Service
@@ -41,7 +49,16 @@ some libraries related to data analysis.
 
 ### Development tools
 <p>
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/>
+</p>
+
+### Others
+<p>
+  <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Anchor-5000B9?style=flat&logo=Anchor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Audacity-0000CC?style=flat&logo=Audacity&logoColor=white"/>
 </p>
