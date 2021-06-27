@@ -74,3 +74,5 @@ some libraries related to data analysis.
   <img src="https://img.shields.io/badge/-Anchor-5000B9?style=flat&logo=Anchor&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Audacity-0000CC?style=flat&logo=Audacity&logoColor=white"/>
 </p>
+
+<!-- https://simpleicons.org/ -->
