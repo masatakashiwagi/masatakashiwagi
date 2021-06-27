@@ -14,6 +14,7 @@ contributing to products / services from the perspective of data analysis, inclu
 - podcast: [Double-M2.fm](https://anchor.fm/double-m2)
 
 ## 📝 Blog posts
+- Under construction
 
 ## 🧑🏻‍💻 Skill
 ### Programming Languages
