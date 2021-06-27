@@ -25,10 +25,10 @@ contributing to products / services from the perspective of data analysis, inclu
 
 ### Machine Learning FrameWorks
 <p>
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
 </p>
 
 ### Libraries
