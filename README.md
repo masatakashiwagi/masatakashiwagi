@@ -49,7 +49,7 @@ some libraries related to data analysis.
 
 ### Data Analysis
 <p>
-  <img src="https://img.shields.io/badge/-Google%20Big%20Query-4285F4?style=flat&logo=Google%20Cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Google%20BigQuery-4285F4?style=flat&logo=Google%20Cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/>
 </p>
