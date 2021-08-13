@@ -2,6 +2,7 @@
 ## About me
 Now, I’m working as Machine Learning Engineer at Connehito, Inc.  
 contributing to products / services from the perspective of data analysis, including machine learning.
+I love Okinawa and its environment. The icon is a Shisa drawn by my wife.
 
 - 🔭 I’m currently working as Machine Learning Engineer.
 - 🌱 I’m currently interested in Consumer Behavior-model, Multi-modal, MLOps.
