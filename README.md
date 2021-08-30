@@ -17,6 +17,12 @@ I love Okinawa and its environment. The icon is a Shisa drawn by my wife.
 ## 📝 Blog posts
 - Under construction
 
+## 💡Hobby
+<p>
+  <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Anchor-5000B9?style=flat&logo=Anchor&logoColor=white"/>
+</p>
+
 ## 🧑🏻‍💻 Skill
 ### Programming Languages
 <p>
@@ -60,20 +66,6 @@ some libraries related to data analysis.
   <img src="https://img.shields.io/badge/-Git-F44D27?style=flat&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
-</p>
-
-### Development Environment
-<p>
-  <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/>
-</p>
-
-### Others
-<p>
-  <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Anchor-5000B9?style=flat&logo=Anchor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Audacity-0000CC?style=flat&logo=Audacity&logoColor=white"/>
 </p>
 
 <!-- https://simpleicons.org/ -->
