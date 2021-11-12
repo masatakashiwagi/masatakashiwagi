@@ -15,7 +15,7 @@ I love Okinawa and its environment. The icon is a Shisa drawn by my wife.
 - podcast: [Double-M2.fm](https://anchor.fm/double-m2)
 
 ## 📝 Blog posts
-- Under construction
+- [TensorflowのCallback関数をカスタマイズ](https://masatakashiwagi.github.io/portfolio/post/customize-tf-callback/)
 
 ## 💡Hobby
 <p>
