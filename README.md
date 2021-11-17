@@ -17,6 +17,7 @@ I love Okinawa and its environment. The icon is a Shisa drawn by my wife.
 ## 📝 Blog posts
 - [TensorflowのCallback関数をカスタマイズ](https://masatakashiwagi.github.io/portfolio/post/customize-tf-callback/)
 - [スプレッドシートで行うMann-WhitneyのU検定](https://masatakashiwagi.github.io/portfolio/post/mann-whitney-utest-in-spreadsheet/)
+- [Excel Binary WorkbookをPythonで処理](https://masatakashiwagi.github.io/portfolio/post/excel_processing_using_python/)
 
 ## 💡Hobby
 <p>
