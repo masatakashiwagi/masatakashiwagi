@@ -14,12 +14,6 @@ I love Okinawa and its environment. The icon is a Shisa drawn by my wife.
 - note: [note@asteriam](https://note.com/asteriam/)
 - podcast: [Double-M2.fm](https://anchor.fm/double-m2)
 
-## 📝 Blog posts
-- [スプレッドシートで行うMann-WhitneyのU検定](https://masatakashiwagi.github.io/portfolio/post/mann-whitney-utest-in-spreadsheet/)
-- [TensorflowのCallback関数をカスタマイズ](https://masatakashiwagi.github.io/portfolio/post/customize-tf-callback/)
-- [RuntimeError: CUDA error: Device-side assert triggeredの解決方法](https://masatakashiwagi.github.io/portfolio/post/cuda_error_device-side_assert_triggered/)
-- [Excel Binary WorkbookをPythonで処理](https://masatakashiwagi.github.io/portfolio/post/excel_processing_using_python/)
-
 ## 💡Hobby
 <p>
   <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white"/>
