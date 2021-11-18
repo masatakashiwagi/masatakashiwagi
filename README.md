@@ -49,13 +49,12 @@ some libraries related to data analysis.
 <p>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Google%20BigQuery-4285F4?style=flat&logo=Google%20Cloud&logoColor=white"/>
 </p>
 
 ### Data Analysis
 <p>
-  <img src="https://img.shields.io/badge/-Google%20BigQuery-4285F4?style=flat&logo=Google%20Cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/>
 </p>
 
 ### Tools
