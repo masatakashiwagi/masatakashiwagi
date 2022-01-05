@@ -10,13 +10,16 @@ I love Okinawa and its environment. The icon is a Shisa drawn by my wife.
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=masatakashiwagi&show_icons=true&count_private=true&theme=flag-india)
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/masatakashiwagi/competition/light)
 
+## 🛠 Projects
+- [teamaya](https://github.com/masatakashiwagi/teamaya/)
+- [MLOps Practices](https://masatakashiwagi.github.io/mlops-practices/)
 
 ## 📮 SNS
 - portfolio: [Fractal Prologue](https://masatakashiwagi.github.io/portfolio/)
 - note: [note@asteriam](https://note.com/asteriam/)
 - podcast: [Double-M2.fm](https://anchor.fm/double-m2)
 
-## 💡Hobby
+## 💡 Hobby
 <p>
   <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Anchor-5000B9?style=flat&logo=Anchor&logoColor=white"/>
