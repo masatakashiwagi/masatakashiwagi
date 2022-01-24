@@ -13,11 +13,10 @@ I love Okinawa and its environment. The icon is a Shisa drawn by my wife.
 ## 🛠 Projects
 - [teamaya](https://github.com/masatakashiwagi/teamaya/)
 - [MLOps Practices](https://masatakashiwagi.github.io/mlops-practices/)
-
-## 📮 SNS
-- portfolio: [Fractal Prologue](https://masatakashiwagi.github.io/portfolio/)
-- note: [note@asteriam](https://note.com/asteriam/)
 - podcast: [Double-M2.fm](https://anchor.fm/double-m2)
+
+## 📮 Blog
+- portfolio: [Fractal Prologue](https://masatakashiwagi.github.io/portfolio/)
 
 ## 💡 Hobby
 <p>
