@@ -39,16 +39,6 @@ I love Okinawa and its environment. The icon is a Shisa drawn by my wife.
   <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white"/>
 </p>
 
-### Libraries
-some libraries related to data analysis.
-<p>
-  <img src="https://img.shields.io/badge/-numpy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=SciPy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=Plotly&logoColor=white"/>
-</p>
-
 ### Infrastructure Services
 <p>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
