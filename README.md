@@ -5,14 +5,15 @@ Responsible for contributing to products / services from the perspective of data
 I love Okinawa and its environment. The icon is a Shisa drawn by my wife.
 
 - 🔭 I’m currently working as Machine Learning Engineer and Kaggle Expert.
-- 🌱 I’m currently interested in Consumer Behavior-model, Multi-modal, MLOps, Product-Led Growth.
+- 🌱 I’m currently interested in Consumer MLOps, Behavior-model, Multi-modal, Product-Led Growth.
+- 🖋 I'm a staff of [@MlopsJ](https://twitter.com/MlopsJ/) 
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=masatakashiwagi&show_icons=true&count_private=true&theme=flag-india)
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/masatakashiwagi/competition/light)
 
 ## 🛠 Projects
-- [teamaya](https://github.com/masatakashiwagi/teamaya/)
 - [MLOps Practices](https://masatakashiwagi.github.io/mlops-practices/)
+- personal projects: [teamaya](https://github.com/masatakashiwagi/teamaya/)
 - podcast: [Double-M2.fm](https://anchor.fm/double-m2)
 
 ## 📮 Blog
@@ -24,7 +25,7 @@ I love Okinawa and its environment. The icon is a Shisa drawn by my wife.
   <img src="https://img.shields.io/badge/-Anchor-5000B9?style=flat&logo=Anchor&logoColor=white"/>
 </p>
 
-## 🧑🏻‍💻 Skill
+<!-- ## 🧑🏻‍💻 Skill
 ### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
@@ -57,5 +58,5 @@ I love Okinawa and its environment. The icon is a Shisa drawn by my wife.
   <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
 </p>
-
+ -->
 <!-- https://simpleicons.org/ -->
