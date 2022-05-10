@@ -5,7 +5,7 @@ Responsible for contributing to products / services from the perspective of data
 I love Okinawa and its environment. The icon is a Shisa drawn by my wife.
 
 - 🔭 I’m currently working as Machine Learning Engineer and Kaggle Expert.
-- 🌱 I’m currently interested in Consumer MLOps, Behavior-model, Multi-modal, Product-Led Growth.
+- 🌱 I’m currently interested in MLOps, Consumer Behavior-model, Multi-modal, Product-Led Growth.
 - 🖋 I'm a staff of [@MlopsJ](https://twitter.com/MlopsJ/) 
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=masatakashiwagi&show_icons=true&count_private=true&theme=flag-india)
