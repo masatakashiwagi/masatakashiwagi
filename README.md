@@ -1,6 +1,6 @@
 # Hello there 👋 I am Masataka Kashiwagi.
 ## About me
-Now, I’m working as Machine Learning Engineer at Connehito, Inc.  
+Now, I’m working as Machine Learning Engineer at Commmune, Inc.  
 Responsible for contributing to products / services from the perspective of data analysis, including machine learning.<br>
 I love Okinawa and its environment. The icon is a Shisa drawn by my wife.
 
