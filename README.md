@@ -1,4 +1,4 @@
-# Hello there 👋 I am Masataka Kashiwagi.
+# Hello there 👋 I am Masataka Kashiwagi a.k.a asteriam.
 ## About me
 Now, I’m working as Machine Learning Engineer at Commmune, Inc.  
 Responsible for contributing to products / services from the perspective of data analysis, including machine learning.<br>
