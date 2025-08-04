@@ -17,7 +17,7 @@ I love Okinawa and its environment. The icon is a Shisa drawn by my wife.
 - podcast: [Double-M2.fm](https://anchor.fm/double-m2)
 
 ## 📮 Blog
-- portfolio: [Fractal Prologue](https://masatakashiwagi.github.io/portfolio/)
+- portfolio: [Fractal Prologue/Monologue]([https://masatakashiwagi.github.io/portfolio/](https://masatakashiwagi.com/))
 
 ## 💡 Hobby
 <p>
