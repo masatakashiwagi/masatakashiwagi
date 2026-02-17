@@ -8,7 +8,8 @@ I love Okinawa and its environment. The icon is a Shisa drawn by my wife.
 - 🌱 I’m currently interested in MLOps, Consumer Behavior-model, Multi-modal, Product-Led Growth.
 - 🖋 I'm a staff of [@MlopsJ](https://twitter.com/MlopsJ/) 
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=masatakashiwagi&show_icons=true&count_private=true&theme=flag-india)
+<!-- ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=masatakashiwagi&show_icons=true&count_private=true&theme=flag-india) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=masatakashiwagi&theme=transparent&hide_longest_streak=true)](https://git.io/streak-stats)
 <!-- ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/masatakashiwagi/competition/light) -->
 
 ## 🛠 Projects
